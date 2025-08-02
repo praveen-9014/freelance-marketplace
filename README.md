@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Freelance Marketplace
 
 A full-stack freelance marketplace application built with React (frontend) and Spring Boot (backend) with MySQL database.
@@ -213,3 +214,6 @@ project-bolt-sb1-sybrkcbt/
 ## License
 
 This project is licensed under the MIT License. 
+=======
+# freelance-marketplace
+>>>>>>> b63197f543ce925662e589f221ebe078a4b007b9
